@@ -1,0 +1,16 @@
+[
+	{
+		"env": "test",
+		"baseURL": "https://reqres.in/api",
+		"name": "test",
+		"job": "test job",
+		"id": ""
+	},
+	{
+		"env": "test1",
+		"baseURL": "https://reqres.in/api/test",
+		"name": "test1",
+		"job": "test job",
+		"id": ""
+	}
+]
